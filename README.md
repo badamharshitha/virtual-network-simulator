@@ -1,5 +1,3 @@
-
-````md
 # 🌐 Virtual Network Simulator for Packet Tracing
 
 ## 📌 Project Overview
@@ -82,7 +80,7 @@ virtual-network-simulator/
 ├── index.js
 ├── package.json
 └── README.md
-````
+```
 
 ---
 
@@ -165,3 +163,8 @@ This project is intentionally backend-focused and can be extended with:
 * REST API endpoint (`/trace`)
 * Frontend visualization
 * Persistent configuration storage
+
+
+
+
+
