@@ -1,0 +1,12 @@
+{
+  "name": "virtual-network-simulator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Virtual Network Simulator for Packet Tracing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "B. N. S. Harshitha",
+  "license": "MIT"
+}

@@ -1,0 +1,23 @@
+# Frontend (not required)
+src/
+public/
+vite.config.js
+index.html
+App.jsx
+main.jsx
+App.css
+index.css
+eslint.config.js
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs / OS
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
